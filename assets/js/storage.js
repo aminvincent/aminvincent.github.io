@@ -24,6 +24,7 @@ function putHistory(data) {
 }
 
 function showHistory() {
+    //chek storage
     if (checkForStorage()) {
         return JSON.parse(localStorage.getItem(CACHE_KEY));
     } else {
