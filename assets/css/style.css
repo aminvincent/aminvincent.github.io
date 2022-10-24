@@ -121,7 +121,7 @@ footer {
     margin: auto;
 }
 
-/* .tablenew {
+.tablenew {
     border-collapse: collapse;
     border-spacing: 0;
     width: 100%;
@@ -133,13 +133,13 @@ footer {
     text-align: center;
     padding: 16px;
     /* width: auto; */
-/* } */
+} 
 
-/* .tablenew th {
+.tablenew th {
     background-color: #5F9DF7;
     color: white;
 }
 
 .tablenew tr:nth-child(even) {
     background-color: #d2d2d2;
-}  */
+} 
